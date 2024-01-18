@@ -1,0 +1,24 @@
+{
+  "name": "event-controller",
+  "version": "0.0.0",
+  "description": "a hypothetical library to simulate event handler managent in modern javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremiah-Olatunde/event-controller.git"
+  },
+  "keywords": [
+    "dom",
+    "javascript",
+    "events"
+  ],
+  "author": "Jesuseun Jeremiah Olatunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeremiah-Olatunde/event-controller/issues"
+  },
+  "homepage": "https://github.com/Jeremiah-Olatunde/event-controller#readme"
+}
